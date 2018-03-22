@@ -1,6 +1,21 @@
 # poc-php
 Playground for PHP ecosystem
 
+## PHP general info
+* It's installed on /etc/php/7.1
+* You can change the running version using `update-alternatives --set php /usr/bin/phpX.Y`
+* `php --ini`
+  * Find your php.ini file
+* `php -m`
+  * See your modules
+* Code coverage
+  * You need XDebug.
+    * You can check it with `php --ri xdebug`
+    * Check if the module appears with `php -m`
+    * http://www.dieuwe.com/blog/xdebug-ubuntu-1604-php7
+  * You must configure a whitelist: https://phpunit.de/manual/current/en/code-coverage-analysis.html#code-coverage-analysis.whitelisting-files
+  * https://phpunit.de/manual/current/en/code-coverage-analysis.html
+
 
 ## Steps for creating a Laravel 5.5 project
 * Prerequisites:
@@ -20,6 +35,7 @@ Playground for PHP ecosystem
         5. `php bin/phpunit --coverage-html report/`
         6. `open report/index.html`
 * Run the server: `php artisan serve`
+
 
 ## Interesting links
 * **PHP**
