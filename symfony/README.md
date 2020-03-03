@@ -24,6 +24,6 @@
   * Local debugging
   * BDD/TDD
   * Examples of hexagonal architecture, DDD.
-* Best practices with Symfony
+* [Best practices with Symfony](https://symfony.com/doc/current/best_practices.html)
 * REST API with Symfony
 * Securization in Symfony (authentication, authorization, etc.)
