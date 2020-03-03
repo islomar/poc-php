@@ -23,6 +23,7 @@
   * Fast feedback loop for local development
   * Local debugging
   * BDD/TDD
+  * Examples of hexagonal architecture, DDD.
 * Best practices with Symfony
 * REST API with Symfony
 * Securization in Symfony (authentication, authorization, etc.)
