@@ -20,6 +20,9 @@
 
 ## To do
 * Best practices with PHP
+  * Fast feedback loop for local development
+  * Local debugging
+  * BDD/TDD
 * Best practices with Symfony
 * REST API with Symfony
 * Securization in Symfony (authentication, authorization, etc.)
