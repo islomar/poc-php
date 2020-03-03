@@ -12,11 +12,14 @@
  * Stable release (Jan 2020): 5.0.4
  * Last LTS release (Nov 2019): 4.4
 
+
 ## Videos
 * [Mi primera vez con Symfony (viniendo de Laravel) | la función CodelyTV 28](https://www.youtube.com/watch?v=Votbs137Ru0)
 
+
 ## Tutorials
 * https://symfonycasts.com/screencast/symfony
+
 
 ## To do
 * Best practices with PHP
@@ -27,3 +30,7 @@
 * [Best practices with Symfony](https://symfony.com/doc/current/best_practices.html)
 * REST API with Symfony
 * Securization in Symfony (authentication, authorization, etc.)
+* Other PHP frameworks:
+  * Laravel
+  * Yii
+  * CodeIgniter
