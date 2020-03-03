@@ -28,6 +28,9 @@
   * BDD/TDD
   * Examples of hexagonal architecture, DDD.
 * [Best practices with Symfony](https://symfony.com/doc/current/best_practices.html)
+* How to dockerise a Symfony app
+ * https://dev.to/martinpham/symfony-5-development-with-docker-4hj8
+ * https://knplabs.com/en/blog/how-to-dockerise-a-symfony-4-project
 * REST API with Symfony
 * Securization in Symfony (authentication, authorization, etc.)
 * Other PHP frameworks:
