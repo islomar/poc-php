@@ -2,6 +2,8 @@
 Playground for PHP ecosystem
 
 ## PHP general info
+* [PHP-FIG: Framework Interop Group](https://www.php-fig.org/)
+ * [PSR: PHP Standard Recommendations](https://www.php-fig.org/psr/)
 * It's installed on /etc/php/7.1
 * You can change the running version using `update-alternatives --set php /usr/bin/phpX.Y`
 * `php --ini`
@@ -15,6 +17,13 @@ Playground for PHP ecosystem
     * http://www.dieuwe.com/blog/xdebug-ubuntu-1604-php7
   * You must configure a whitelist: https://phpunit.de/manual/current/en/code-coverage-analysis.html#code-coverage-analysis.whitelisting-files
   * https://phpunit.de/manual/current/en/code-coverage-analysis.html
+
+## Style
+* PSR:
+ * [PSR-1: Basic Coding Standard](https://www.php-fig.org/psr/psr-1/)
+ * [PSR-2: Coding Style Guide](https://www.php-fig.org/psr/psr-2/)
+ * [PSR-12: Extended Coding Style](https://www.php-fig.org/psr/psr-12/)
+* https://pear.php.net/manual/en/standards.php
 
 
 ## Steps for creating a Laravel 5.5 project
