@@ -26,26 +26,6 @@ Playground for PHP ecosystem
 * https://pear.php.net/manual/en/standards.php
 
 
-## Steps for creating a Laravel 5.5 project
-* Prerequisites:
-    * PHP 7.1
-* `sudo apt-get install php7.1-zip`
-* `sudo apt-get install php7.1-mbstring`
-* `composer global require "laravel/installer"`
-* `composer create-project --prefer-dist laravel/laravel blog "5.5.*"`
-* Install dependencies: `composer install`
-* Run the tests:
-    * `./vendor/bin/phpunit`
-    * Other options:
-        1. `wget http://getcomposer.org/composer.phar`
-        2. `php composer.phar install`
-        3. `php bin/phpunit`
-        4. `php bin/phpunit --coverage-text`
-        5. `php bin/phpunit --coverage-html report/`
-        6. `open report/index.html`
-* Run the server: `php artisan serve`
-
-
 ## Interesting links
 * **PHP**
     * https://packagist.org/: Packagist is the main Composer repository. It aggregates public PHP packages installable with Composer.
@@ -70,3 +50,10 @@ Playground for PHP ecosystem
     * https://forge.laravel.com/
     * Homestead: Vagran with Laravel for local development
 
+## To be read/studied
+* https://www.javier-rodriguez.com/#/blog/Porque%20PHP%20es%20mol%C3%B3n./4
+* Interfaces
+* Outside-in TDD with Symfony
+* Testing
+ * Matchers
+ * Doubles
