@@ -1,4 +1,4 @@
-# poc-php
+# Playground for learning about PHP and its ecosystem
 Playground for PHP ecosystem
 
 ## PHP general info
@@ -25,6 +25,8 @@ Playground for PHP ecosystem
  * [PSR-12: Extended Coding Style](https://www.php-fig.org/psr/psr-12/)
 * https://pear.php.net/manual/en/standards.php
 
+## CQRS
+* http://getprooph.org/
 
 ## Interesting links
 * **PHP**
