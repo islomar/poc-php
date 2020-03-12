@@ -54,7 +54,11 @@ Playground for PHP ecosystem
 
 ## To be read/studied
 * https://www.javier-rodriguez.com/#/blog/Porque%20PHP%20es%20mol%C3%B3n./4
+* https://thephp.website/en/issue/php-8-jit/
 * Interfaces
+* Linters
+* Something like ArchUnit for PHP
+ * https://github.com/sensiolabs-de/deptrac
 * Outside-in TDD with Symfony
 * Testing
  * Matchers
