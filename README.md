@@ -57,6 +57,7 @@ Playground for PHP ecosystem
 * https://thephp.website/en/issue/php-8-jit/
 * Interfaces
 * Linters
+* Optional
 * Something like ArchUnit for PHP
  * https://github.com/sensiolabs-de/deptrac
 * Outside-in TDD with Symfony
