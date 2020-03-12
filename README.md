@@ -59,6 +59,7 @@ Playground for PHP ecosystem
 * Linters
 * Optional
 * Enum
+* Filter - Map - Reduce
 * Lambdas
 * Something like ArchUnit for PHP
  * https://github.com/sensiolabs-de/deptrac
