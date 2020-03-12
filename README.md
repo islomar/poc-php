@@ -58,6 +58,8 @@ Playground for PHP ecosystem
 * Interfaces
 * Linters
 * Optional
+* Enum
+* Lambdas
 * Something like ArchUnit for PHP
  * https://github.com/sensiolabs-de/deptrac
 * Outside-in TDD with Symfony
