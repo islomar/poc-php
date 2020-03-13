@@ -65,6 +65,7 @@ Playground for PHP ecosystem
  * https://github.com/sensiolabs-de/deptrac
 * Outside-in TDD with Symfony
 * Testing
+ * [Behat (BDD style)](https://docs.behat.org/en/latest/)
  * Matchers
  * Doubles
   * [Mockery](https://github.com/mockery/mockery)
