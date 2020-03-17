@@ -55,6 +55,7 @@ Playground for PHP ecosystem
 ## To be read/studied
 * https://www.javier-rodriguez.com/#/blog/Porque%20PHP%20es%20mol%C3%B3n./4
 * https://thephp.website/en/issue/php-8-jit/
+* Versions manager, like SDKMan, virtualenv, rbenv
 * Interfaces
 * Linters
 * Optional
