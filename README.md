@@ -42,10 +42,10 @@ Playground for PHP ecosystem
         * Mockery
         * Prophecy
 * **Static analysis tools**
- * https://github.com/phpstan/phpstan
- * https://github.com/phan/phan
+    * https://github.com/phpstan/phpstan
+    * https://github.com/phan/phan
 * **Refactoring legacy code**
- * https://github.com/rectorphp/rector
+    * https://github.com/rectorphp/rector
 * **Laravel**
     * https://getcomposer.org/doc/faqs/should-i-commit-the-dependencies-in-my-vendor-directory.md
     * http://www.laravelbestpractices.com/
