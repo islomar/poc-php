@@ -56,8 +56,11 @@ Playground for PHP ecosystem
 * https://www.javier-rodriguez.com/#/blog/Porque%20PHP%20es%20mol%C3%B3n./4
 * https://thephp.website/en/issue/php-8-jit/
 * Videos:
+  * [https://www.youtube.com/watch?v=v2IjMrpZog4](https://www.youtube.com/watch?v=v2IjMrpZog4)
   * https://codely.tv/blog/screencasts/tipos-php-7/
   * [Analizamos el Código en LARAVEL de Brainity 😳 | Auditoría 1](https://www.youtube.com/watch?v=YJqULawVAMQ&t=2s)
+  * [CodelyTV: Symfony](https://www.youtube.com/channel/UC9IKtxn9AIGelnYmwYr0Lxw/search?query=symfony)
+  * [CodelyTV: PHP](https://www.youtube.com/channel/UC9IKtxn9AIGelnYmwYr0Lxw/search?query=php)
 * Versions manager, like SDKMan, virtualenv, rbenv
 * Interfaces
 * Linters
