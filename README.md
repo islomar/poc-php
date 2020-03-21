@@ -57,6 +57,7 @@ Playground for PHP ecosystem
 * https://thephp.website/en/issue/php-8-jit/
 * Videos:
   * https://codely.tv/blog/screencasts/tipos-php-7/
+  * [Analizamos el Código en LARAVEL de Brainity 😳 | Auditoría 1](https://www.youtube.com/watch?v=YJqULawVAMQ&t=2s)
 * Versions manager, like SDKMan, virtualenv, rbenv
 * Interfaces
 * Linters
