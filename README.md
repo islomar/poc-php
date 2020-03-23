@@ -62,6 +62,7 @@ Playground for PHP ecosystem
   * [CodelyTV: Symfony](https://www.youtube.com/channel/UC9IKtxn9AIGelnYmwYr0Lxw/search?query=symfony)
   * [CodelyTV: PHP](https://www.youtube.com/channel/UC9IKtxn9AIGelnYmwYr0Lxw/search?query=php)
 * Versions manager, like SDKMan, virtualenv, rbenv
+* Immutability
 * Interfaces
 * Linters
 * Optional
