@@ -52,6 +52,11 @@ Playground for PHP ecosystem
     * https://forge.laravel.com/
     * Homestead: Vagran with Laravel for local development
 
+
+## PHP and Macro-design
+* https://medium.com/coding-stones/desarrollando-un-mvp-php-y-clean-architecture-796c55873d9f
+
+
 ## To be read/studied
 * https://www.javier-rodriguez.com/#/blog/Porque%20PHP%20es%20mol%C3%B3n./4
 * https://thephp.website/en/issue/php-8-jit/
