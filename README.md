@@ -55,7 +55,7 @@ Playground for PHP ecosystem
 
 ## PHP and Macro-design
 * https://medium.com/coding-stones/desarrollando-un-mvp-php-y-clean-architecture-796c55873d9f
-
+* DB migrations: [Phinx](https://book.cakephp.org/phinx/0/en/index.html)
 
 ## To be read/studied
 * https://www.javier-rodriguez.com/#/blog/Porque%20PHP%20es%20mol%C3%B3n./4
