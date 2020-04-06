@@ -53,6 +53,13 @@ Playground for PHP ecosystem
     * Homestead: Vagran with Laravel for local development
 
 
+## Testing
+* Mutation testing: https://github.com/infection/infection
+ * [Behat (BDD style)](https://docs.behat.org/en/latest/)
+ * Doubles
+  * [Mockery](https://github.com/mockery/mockery)
+
+
 ## PHP and Macro-design
 * https://medium.com/coding-stones/desarrollando-un-mvp-php-y-clean-architecture-796c55873d9f
 * DB migrations: [Phinx](https://book.cakephp.org/phinx/0/en/index.html)
